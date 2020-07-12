@@ -9,4 +9,8 @@
 
 Portfolio website built with GatsbyJS using the [gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) starter repo.
 
-Purpose: Play around with GatsbyJS as part of learning new stacks and build my portfolio while doing so.
+**Purpose:** Play around with GatsbyJS as part of learning new stacks and build my portfolio while doing so.
+
+Learned most of the concepts based on Andrew Mead's [tutorial](https://www.youtube.com/watch?v=8t0vNu2fCCM) on GatsbyJS.
+
+Checkout [aswinsanakan.com](https://aswinsanakan.com) for more about me & my projects!
